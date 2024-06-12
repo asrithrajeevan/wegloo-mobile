@@ -1,0 +1,1 @@
+Add fonts file here & run `yarn react-native link`

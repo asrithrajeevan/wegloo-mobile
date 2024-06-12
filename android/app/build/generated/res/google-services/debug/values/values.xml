@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">933649005933-gu9kek1sm8dih505t4df28ipc1m53rsm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">933649005933</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKJNJ6vmlOQj5fenqU72KlC5bAV9glhNE</string>
+    <string name="google_app_id" translatable="false">1:933649005933:android:a40ec3b2ca3cdd1a72ee64</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKJNJ6vmlOQj5fenqU72KlC5bAV9glhNE</string>
+    <string name="google_storage_bucket" translatable="false">wegloo-efccc.appspot.com</string>
+    <string name="project_id" translatable="false">wegloo-efccc</string>
+</resources>

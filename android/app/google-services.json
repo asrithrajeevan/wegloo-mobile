@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933649005933",
+    "project_id": "wegloo-efccc",
+    "storage_bucket": "wegloo-efccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933649005933:android:a40ec3b2ca3cdd1a72ee64",
+        "android_client_info": {
+          "package_name": "com.wegloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933649005933-fu9l4tdorjsbd37sgernijfirnabm9pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegloo",
+            "certificate_hash": "26246e87bd99cdd4419f8e278075142eb59ec334"
+          }
+        },
+        {
+          "client_id": "933649005933-gu9kek1sm8dih505t4df28ipc1m53rsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJNJ6vmlOQj5fenqU72KlC5bAV9glhNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933649005933-gu9kek1sm8dih505t4df28ipc1m53rsm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933649005933-b73tq4kslr1vagba6hv6outrk02681oh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wegloo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

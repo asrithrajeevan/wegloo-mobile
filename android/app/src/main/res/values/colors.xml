@@ -1,0 +1,8 @@
+<resources>
+    <color name="status_bar_color">#FFFFFF</color>
+    <color name="background_dark">#18191F</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="gradientstart">#18191F</color>
+    <color name="gradientend">#FD355A</color>
+    <color name="bootsplash_background">#FFFFFF</color>
+</resources>
